@@ -1,0 +1,21 @@
+{
+  "global": {
+    "error": "Error",
+    "close": "Close",
+    "somethingWentWrong": "Something went wrong!",
+    "connectingTimedOut": "Connecting timed out!",
+    "noInternetConnection": "No Internet connection"
+  },
+  "signIn": {
+    "appBar": "Sign In",
+    "login": "Login",
+    "loginIsRequired": "Login is required!",
+    "password": "Password",
+    "passwordIsRequired": "Password is required!",
+    "submitButton": "Continue"
+  },
+  "home": {
+    "appBar": "Markup Test",
+    "item_args": "Item {}"
+  }
+}
